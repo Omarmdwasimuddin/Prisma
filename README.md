@@ -8,3 +8,4 @@
 #### Class 06: [Prisma-Schema-Date-Time](https://github.com/Omarmdwasimuddin/Prisma-Schema-Date-Time)
 #### Class 07: [Prisma-Schema-One-to-One-Relation](https://github.com/Omarmdwasimuddin/Prisma-Schema-One-to-One-Relation)
 #### Class 08: [Prisma-Schema-One-to-Many-Relation](https://github.com/Omarmdwasimuddin/Prisma-Schema-One-to-Many-Relation)
+#### Class 09: [Prisma-Schema-Many-to-Many-Relation](https://github.com/Omarmdwasimuddin/Prisma-Schema-Many-to-Many-Relation)
