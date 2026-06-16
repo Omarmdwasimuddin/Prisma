@@ -7,3 +7,4 @@
 #### Class 05: [Prisma-Schema-Enum-Type](https://github.com/Omarmdwasimuddin/Prisma-Schema-Enum-Type)
 #### Class 06: [Prisma-Schema-Date-Time](https://github.com/Omarmdwasimuddin/Prisma-Schema-Date-Time)
 #### Class 07: [Prisma-Schema-One-to-One-Relation](https://github.com/Omarmdwasimuddin/Prisma-Schema-One-to-One-Relation)
+#### Class 08: [Prisma-Schema-One-to-Many-Relation](https://github.com/Omarmdwasimuddin/Prisma-Schema-One-to-Many-Relation)
