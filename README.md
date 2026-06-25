@@ -11,3 +11,4 @@
 #### Class 09: [Prisma-Schema-One-to-Many-Relation](https://github.com/Omarmdwasimuddin/Prisma-Schema-One-to-Many-Relation)
 #### Class 10: [Prisma-Schema-Many-to-Many-Relation](https://github.com/Omarmdwasimuddin/Prisma-Schema-Many-to-Many-Relation)
 #### Class 11: [NextJS-API-UserCreate-ProductionLevel](https://github.com/Omarmdwasimuddin/NextJS-api-user) 
+#### Class Extra: [Prisma Authjs with Nextjs](https://github.com/Omarmdwasimuddin/Prisma-Authjs-with-Nextjs) 
