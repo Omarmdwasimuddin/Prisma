@@ -11,10 +11,10 @@
 #### Class 09: [Prisma-Schema-One-to-Many-Relation](https://github.com/Omarmdwasimuddin/Prisma-Schema-One-to-Many-Relation)
 #### Class 10: [Prisma-Schema-Many-to-Many-Relation](https://github.com/Omarmdwasimuddin/Prisma-Schema-Many-to-Many-Relation)
 ---
-#### Class 11: [NextJS API Request Method](https://github.com/Omarmdwasimuddin/NextJS-API-Request-Method)
+#### Class 11: [NextJS API---> Request Method](https://github.com/Omarmdwasimuddin/NextJS-API-Request-Method)
 #### Class 12: [NextJs API---> Params, Body, FormData](https://github.com/Omarmdwasimuddin/NextJs-API-Params-Body-FormData)
 #### Class 13: [NextJS API---> Header, Cookies](https://github.com/Omarmdwasimuddin/NextJS-API-Request-Header-Cookies)
-
+#### Class 14: [NextJS API---> Response Method](https://github.com/Omarmdwasimuddin/NextJS-API-Response-Method)
 ---
 #### Class : [NextJS-API-UserCreate-ProductionLevel](https://github.com/Omarmdwasimuddin/NextJS-api-user) 
 #### Class Extra: [Prisma Authjs with Nextjs](https://github.com/Omarmdwasimuddin/Prisma-Authjs-with-Nextjs) 
