@@ -20,6 +20,7 @@
 #### Class 17: [NextJS API---> Proxy Conditional Statement](https://github.com/Omarmdwasimuddin/NextJS-API-Proxy-Conditional-Statement)
 #### Class 18: [NextJS API---> Working With Request Header In Proxy](https://github.com/Omarmdwasimuddin/NextJS-API-Proxy-Header)
 #### Class 19: [NextJS API---> Working With Response Header In Proxy](https://github.com/Omarmdwasimuddin/NextJS-API-Proxy-Header2)
+#### Class 20: [NextJS API---> Send Email](https://github.com/Omarmdwasimuddin/NextJS-API-Send-Email)
 ---
 #### Class : [NextJS-API-UserCreate-ProductionLevel](https://github.com/Omarmdwasimuddin/NextJS-api-user) 
 #### Class Extra: [Prisma Authjs with Nextjs](https://github.com/Omarmdwasimuddin/Prisma-Authjs-with-Nextjs) 
