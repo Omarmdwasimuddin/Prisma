@@ -23,7 +23,7 @@
 #### Class 20: [NextJS API---> Send Email](https://github.com/Omarmdwasimuddin/NextJS-API-Send-Email)
 #### Class 21: [NextJS API---> JWT Encode](https://github.com/Omarmdwasimuddin/NextJS-API-JWT-Encode)
 #### Class 22: [NextJS API---> JWT Decoder](https://github.com/Omarmdwasimuddin/NextJS-API-JWT-Decode)
-#### Class 23: [## NextJS API - Login with JWT Authentication](https://github.com/Omarmdwasimuddin/NextJS-API-Login)
+#### Class 23: [NextJS API---> Login with JWT Authentication](https://github.com/Omarmdwasimuddin/NextJS-API-Login)
 ---
 #### Class : [NextJS-API-UserCreate-ProductionLevel](https://github.com/Omarmdwasimuddin/NextJS-api-user) 
 #### Class Extra: [Prisma Authjs with Nextjs](https://github.com/Omarmdwasimuddin/Prisma-Authjs-with-Nextjs) 
