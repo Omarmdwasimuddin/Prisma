@@ -25,6 +25,7 @@
 #### Class 22: [NextJS API---> JWT Decoder](https://github.com/Omarmdwasimuddin/NextJS-API-JWT-Decode)
 #### Class 23: [NextJS API---> Login with JWT Authentication](https://github.com/Omarmdwasimuddin/NextJS-API-Login)
 #### Class 24: [NextJS API–--> Verify JWT Token Using Proxy](https://github.com/Omarmdwasimuddin/NextJS-API-Verify-JWT-Token-Using-Proxy)
+#### Class 25: [NextJS API---> Passing JWT Verification Identity from Proxy](https://github.com/Omarmdwasimuddin/NextJS-API-Passing-JWT-Verification-Identity-from-Proxy)
 ---
 #### Class : [NextJS-API-UserCreate-ProductionLevel](https://github.com/Omarmdwasimuddin/NextJS-api-user) 
 #### Class Extra: [Prisma Authjs with Nextjs](https://github.com/Omarmdwasimuddin/Prisma-Authjs-with-Nextjs) 
