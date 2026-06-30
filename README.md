@@ -28,6 +28,7 @@
 #### Class 25: [NextJS API---> Passing JWT Verification Identity from Proxy](https://github.com/Omarmdwasimuddin/NextJS-API-Passing-JWT-Verification-Identity-from-Proxy)
 ---
 #### Class 26: [NextJS API---> Insert Operation](https://github.com/Omarmdwasimuddin/NextJS-API-Insert-Operation)
+#### Class 27: [NextJS API---> Update & Delete Operation](https://github.com/Omarmdwasimuddin/NextJS-API-Update-Delete-Operation)
 ---
 #### Class : [NextJS-API-UserCreate-ProductionLevel](https://github.com/Omarmdwasimuddin/NextJS-api-user) 
 #### Class Extra: [Prisma Authjs with Nextjs](https://github.com/Omarmdwasimuddin/Prisma-Authjs-with-Nextjs) 
